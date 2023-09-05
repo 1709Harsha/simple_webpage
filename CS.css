@@ -1,0 +1,52 @@
+.header {
+    border: 5px solid cyan;
+    
+    text-align: center;
+    background-image: url(img/CSS-D.jpg);
+    background-position: center;
+    color: rgb(41, 231, 41);
+}
+
+.nav {
+  border: 4px solid  cyan;
+  margin-top: 5px;
+  width: auto;
+  height: 50px;
+  background-image: url(img/CSS-D.jpg);
+  background-position: center;
+}
+.items {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(235, 111, 9);
+    font-size: 15px;
+}
+.litems {
+    width: 100px;
+    float: left;
+
+}
+.box {
+   
+    text-align: center;
+}
+#mainimg {
+    width: 400px;
+    margin-top: 16px;
+}
+.footer {
+ border: 3px solid cyan;
+ text-align: center;
+ background-color: black;
+ color: rgb(157, 245, 157);
+
+}
+#img {
+    width: 300px;
+    height: 285px;
+    margin-top: 13px;
+}
+
